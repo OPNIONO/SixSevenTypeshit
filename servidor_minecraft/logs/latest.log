@@ -1,0 +1,117 @@
+[14:25:30] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[14:25:30] [main/INFO]: Loading 44 mods:
+	- classicfarlands 1.1.0+mc1.21.10
+	   \-- mixson 1.4.0
+	- clumps 28.0.0.1
+	- fabric-api 0.138.4+1.21.10
+	   |-- fabric-api-base 1.0.0+14b92d896f
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
+	   |-- fabric-block-api-v1 1.1.5+d17682156f
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
+	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
+	   |-- fabric-content-registries-v0 10.2.6+b6a242646f
+	   |-- fabric-convention-tags-v1 2.1.49+7f945d5b6f
+	   |-- fabric-convention-tags-v2 2.17.0+ff7bc77d6f
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
+	   |-- fabric-data-attachment-api-v1 1.8.33+cd3b9e596f
+	   |-- fabric-data-generation-api-v1 23.2.27+d8b85ef16f
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
+	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
+	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
+	   |-- fabric-item-api-v1 11.5.11+9bce411b6f
+	   |-- fabric-item-group-api-v1 4.2.27+86b3ae576f
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
+	   |-- fabric-loot-api-v2 3.0.67+3f89f5a56f
+	   |-- fabric-loot-api-v3 2.0.14+d17682156f
+	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
+	   |-- fabric-model-loading-api-v1 6.0.5+3ffd6ef06f
+	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
+	   |-- fabric-object-builder-api-v1 21.1.28+9bce411b6f
+	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
+	   |-- fabric-recipe-api-v1 8.2.0+39709ef06f
+	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
+	   |-- fabric-renderer-api-v1 7.2.3+9be2a36e6f
+	   |-- fabric-renderer-indigo 4.1.4+9be2a36e6f
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
+	   |-- fabric-rendering-v1 16.2.0+bee81f016f
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
+	   |-- fabric-resource-loader-v0 3.3.1+d4d4122a6f
+	   |-- fabric-resource-loader-v1 1.0.4+14959b836f
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
+	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
+	   |-- fabric-tag-api-v1 1.2.13+2fa446b26f
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[14:25:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SixSevenTypeshit/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:25:30] [main/INFO]: Compatibility level set to JAVA_21
+[14:25:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[14:25:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:25:37] [main/ERROR]: Couldn't load file/generation2.zip pack metadata: Pack declared support for versions 88 to 88 but declared main format is 81
+[14:25:37] [main/WARN]: Missing metadata in pack file/generation3.zip
+[14:25:41] [main/INFO]: Loaded 1467 recipes
+[14:25:41] [main/INFO]: Loaded 1576 advancements
+[14:25:41] [main/INFO]: Applied 0 biome modifications to 0 of 160 new biomes in 1.443 ms
+[14:25:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:25:41] [Server thread/INFO]: Loading properties
+[14:25:41] [Server thread/INFO]: Default game type: SURVIVAL
+[14:25:41] [Server thread/INFO]: Generating keypair
+[14:25:41] [Server thread/INFO]: Starting Minecraft server on *:6769
+[14:25:41] [Server thread/INFO]: Using epoll channel type
+[14:25:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:25:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:25:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:25:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:25:41] [Server thread/INFO]: Preparing level "world"
+[14:25:42] [Server thread/INFO]: Loading 25 persistent chunks...
+[14:25:42] [Server thread/INFO]: Preparing spawn area: 28%
+[14:25:42] [Server thread/INFO]: Preparing spawn area: 28%
+[14:25:43] [Server thread/INFO]: Preparing spawn area: 28%
+[14:25:43] [Server thread/INFO]: Preparing spawn area: 28%
+[14:25:44] [Server thread/INFO]: Preparing spawn area: 28%
+[14:25:44] [Server thread/INFO]: Time elapsed: 2354 ms
+[14:25:44] [Server thread/INFO]: Done (2.800s)! For help, type "help"
+[14:25:58] [Server thread/INFO]: Tuk4Tuk[/127.202.249.127:57969] logged in with entity id 51 at (331.44047287268086, 69.90680045872497, -543.1773333151124)
+[14:25:58] [Server thread/INFO]: Tuk4Tuk joined the game
+[14:26:02] [Server thread/INFO]: ItzRosstheboss[/127.128.71.102:54279] logged in with entity id 345 at (325.1329644563352, 67.47313262666711, -532.2832469730727)
+[14:26:02] [Server thread/INFO]: ItzRosstheboss joined the game
+[14:26:38] [Server thread/INFO]: Xblade_24[/127.237.5.164:47043] logged in with entity id 348 at (306.27473491225265, 80.83621186172395, -518.0829923581483)
+[14:26:38] [Server thread/INFO]: Xblade_24 joined the game
+[14:27:41] [Server thread/WARN]: ItzRosstheboss moved too quickly! -0.16102760363168045,-10.116593073378908,-0.9198420355970143
+[14:27:58] [Server thread/WARN]: ItzRosstheboss moved too quickly! 1.580193074850797,-17.334551231214775,-6.176535150004156
+[14:27:58] [Server thread/WARN]: Xblade_24 moved too quickly! -7.622071077125156,2.252203340253729,6.309204974934801
+[14:28:44] [Server thread/INFO]: [ItzRosstheboss: Applied effect Invisibility to Xblade_24]
+[14:28:57] [Server thread/INFO]: [Tuk4Tuk: Running function orbital:give/nuke_1]
+[14:29:16] [Server thread/INFO]: [Tuk4Tuk: Running function orbital:give/stab_aim_1]
+[14:29:20] [Server thread/INFO]: [Tuk4Tuk: Running function orbital:give/stab_aim_1]
+[14:29:35] [Server thread/WARN]: ItzRosstheboss moved too quickly! 3.149561606485065,-17.352670988819582,1.6290647792401387
+[14:29:38] [Server thread/WARN]: ItzRosstheboss moved too quickly! -0.14853232413071282,10.01241755649886,-3.6654744561056987
+[14:30:15] [Server thread/INFO]: [ItzRosstheboss: Gave 64 [Firework Rocket] to ItzRosstheboss]
+[14:31:00] [Server thread/INFO]: Warden_Here[/127.129.125.1:51985] logged in with entity id 5220 at (331.7398726812241, 77.30477720091763, -532.4675193187525)
+[14:31:00] [Server thread/INFO]: Warden_Here joined the game
+[14:31:04] [Server thread/INFO]: [ItzRosstheboss: Gave 64 [Bottle o' Enchanting] to Xblade_24]
+[14:31:11] [Server thread/INFO]: [ItzRosstheboss: Set the time to 1000]
+[14:31:12] [Server thread/INFO]: [Tuk4Tuk: Teleported 4 entities to Tuk4Tuk]
+[14:31:51] [Server thread/INFO]: Tuk4Tuk blew up
+[14:31:56] [Server thread/INFO]: [Tuk4Tuk: Teleported Tuk4Tuk to Warden_Here]
+[14:31:59] [Server thread/INFO]: [Tuk4Tuk: Set own game mode to Survival Mode]
+[14:32:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=780, y=67, z=-639}
+[14:32:44] [Server thread/INFO]: Tuk4Tuk lost connection: Timed out
+[14:32:44] [Server thread/INFO]: Tuk4Tuk left the game
+[14:32:44] [Server thread/WARN]: handleDisconnection() called twice
+[14:34:04] [Server thread/INFO]: Tuk4Tuk[/127.202.249.127:56271] logged in with entity id 7717 at (777.8389870386752, 67.0, -638.6653000947834)
+[14:34:04] [Server thread/INFO]: Tuk4Tuk joined the game
+[14:34:22] [Server thread/INFO]: [Warden_Here: Applied effect Invisibility to Warden_Here]
+[14:34:47] [Server thread/INFO]: Tuk4Tuk blew up
+[14:34:54] [Server thread/INFO]: [Tuk4Tuk: Teleported Tuk4Tuk to ItzRosstheboss]
+[14:34:56] [Server thread/INFO]: [Tuk4Tuk: Set own game mode to Survival Mode]
+[14:35:01] [Server thread/INFO]: [Warden_Here: Set own game mode to Creative Mode]
+[14:35:26] [Server thread/INFO]: [Warden_Here: Set own game mode to Survival Mode]
